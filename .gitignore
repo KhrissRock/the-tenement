@@ -10,6 +10,11 @@ tmp/
 *.swp
 *~.nib
 local.properties
+
+*/.idea
+*/the-tenement.iml
+
+*/node_modules
 .settings/
 .loadpath
 .recommenders
@@ -60,3 +65,5 @@ local.properties
 .classpath
 
 # End of https://www.gitignore.io/api/eclipse
+*/node_modules/
+*/.idea
